@@ -29,7 +29,7 @@ The analysis covers the following topics
 
 ## List Growth Rate:
 open_year  email_name                                                                
-2019.0     Email 1 - Welcome to Wanderlust Adventures                                    1937
+- 2019.0     Email 1 - Welcome to Wanderlust Adventures                                    1937
            Email 2 - Offers tailored just for you                                        2716
            Email 3 - Don’t miss out on your next adventures, book now and get 20% off    1831
            Email 4 - Thanks for choosing Wanderlust Adventures                           1027
