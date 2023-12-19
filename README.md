@@ -85,7 +85,7 @@ Revenue By user
 - Danielle Bird        1384.00
 - Isaac Simmons        1381.08
 - Kelly Gould          1380.36
-- 
+ 
 ![ALT](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revbyusergraph.png)
 
 - average revenue per recipient:  49.02
