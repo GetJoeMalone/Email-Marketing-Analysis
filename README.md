@@ -48,18 +48,16 @@ Name: name, dtype: int64 open_year  email_name
            Email 2 - Offers tailored just for you                                        2721
            Email 3 - Don’t miss out on your next adventures, book now and get 20% off    1809
            Email 4 - Thanks for choosing Wanderlust Adventures                           1020
-Name: name, dtype: int64
+
 ![ALT](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/listgrowthrate%20chart.png)
 
 ## Email Sharing/Forwarding Rate
 No data on shareing/forwarding in dataset
 
 ## Overall ROI
-- overall revenue by month
-![overall revenue by month](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebymonth.png "overall revenue by month")
+- overall revenue by month ![overall revenue by month](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebymonth.png "overall revenue by month")
 
-- overall revenue by year
-![overall revenue by year](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebyyear.png "overall revenue by year")
+- overall revenue by year ![overall revenue by year](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebyyear.png "overall revenue by year")
 
 Revenue By user
 - Troy Long            2276.00
