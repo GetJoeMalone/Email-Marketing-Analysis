@@ -55,10 +55,10 @@ Name: name, dtype: int64
 No data on shareing/forwarding in dataset
 
 ## Overall ROI
-overall revenue by month
+- overall revenue by month
 ![ALT](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebymonth.png)
 
-overall revenue by year
+- overall revenue by year
 ![ALT](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebyyear.png)
 
 Revenue By user
