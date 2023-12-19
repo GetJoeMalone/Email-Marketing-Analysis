@@ -56,30 +56,47 @@ No data on shareing/forwarding in dataset
 
 ## Overall ROI
 Revenue By user
-Troy Long            2276.00
-Ashley Fields        2214.98
-Jessica Rivers       2182.44
-Michelle Robinson    2061.90
-Alicia Lynch         1930.10
-Audrey Evans         1757.14
-Raven Hughes         1706.43
-Brittany Roman       1481.40
-Shawn Andrade        1398.58
-Holly Rodriguez      1397.31
-Catherine Bauer      1396.18
-Angela Anderson      1395.85
-Michelle Curtis      1394.86
-Richard Tucker       1394.70
-Ashley Hanson        1394.40
-Jean Gregory         1394.30
-Sheri Gibbs          1393.89
-Olivia Howell        1391.32
-Dana Pope            1390.32
-Kyle Griffin         1389.34
-Gary Baker           1388.20
-Cindy Bullock        1385.51
-Danielle Bird        1384.00
-Isaac Simmons        1381.08
-Kelly Gould          1380.36
+- Troy Long            2276.00
+- Ashley Fields        2214.98
+- Jessica Rivers       2182.44
+- Michelle Robinson    2061.90
+- Alicia Lynch         1930.10
+- Audrey Evans         1757.14
+- Raven Hughes         1706.43
+- Brittany Roman       1481.40
+- Shawn Andrade        1398.58
+- Holly Rodriguez      1397.31
+- Catherine Bauer      1396.18
+- Angela Anderson      1395.85
+- Michelle Curtis      1394.86
+- Richard Tucker       1394.70
+- Ashley Hanson        1394.40
+- Jean Gregory         1394.30
+- Sheri Gibbs          1393.89
+- Olivia Howell        1391.32
+- Dana Pope            1390.32
+- Kyle Griffin         1389.34
+- Gary Baker           1388.20
+- Cindy Bullock        1385.51
+- Danielle Bird        1384.00
+- Isaac Simmons        1381.08
+- Kelly Gould          1380.36
+![ALT](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revbyuserchart%20chart.png)
+
+average revenue per recipient:  49.02
+average revenue per email:  20.86
+
+revenue by email template:
+- Email 2 - Offers tailored just for you                                        531259.45
+- Email 1 - Welcome to Wanderlust Adventures                                    177967.20
+- Email 3 - Don’t miss out on your next adventures, book now and get 20% off    123289.49
+- Email 4 - Thanks for choosing Wanderlust Adventures                            45676.4
+
+average revenue per email per campaign:  
+- Email 1 - Welcome to Wanderlust Adventures                                     4.227350
+- Email 2 - Offers tailored just for you                                        12.619289
+- Email 3 - Don’t miss out on your next adventures, book now and get 20% off     2.928561
+- Email 4 - Thanks for choosing Wanderlust Adventures                            1.084978
+
 ## Unsubscribe Rate
 No data on unsubscribes in dataset
