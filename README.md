@@ -56,10 +56,10 @@ No data on shareing/forwarding in dataset
 
 ## Overall ROI
 - overall revenue by month
-![overall revenue by month](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebymonth.png)
+![overall revenue by month](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebymonth.png "overall revenue by month")
 
 - overall revenue by year
-![overall revenue by year](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebyyear.png)
+![overall revenue by year](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebyyear.png "overall revenue by year")
 
 Revenue By user
 - Troy Long            2276.00
