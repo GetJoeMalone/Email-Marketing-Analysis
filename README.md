@@ -4,10 +4,10 @@ Analysis of data from 5 years of email marketing campaigns
 The analysis covers the following topics
 
 ## Clickthrough Rate:
-Email 1 clickthrough rate: 0.24
-Email 2 clickthrough rate: 0.28
-Email 3 clickthrough rate: 0.09
-Email 4 clickthrough rate: 0.19
+- Email 1 clickthrough rate: 0.24
+- Email 2 clickthrough rate: 0.28
+- Email 3 clickthrough rate: 0.09
+- Email 4 clickthrough rate: 0.19
 
 ## Open Rate: 
 Email 1 open rate: 0.85
