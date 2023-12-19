@@ -54,6 +54,32 @@ Name: name, dtype: int64
 ## Email Sharing/Forwarding Rate
 No data on shareing/forwarding in dataset
 
-## Overall ROI. ...
+## Overall ROI
+Revenue By user
+Troy Long            2276.00
+Ashley Fields        2214.98
+Jessica Rivers       2182.44
+Michelle Robinson    2061.90
+Alicia Lynch         1930.10
+Audrey Evans         1757.14
+Raven Hughes         1706.43
+Brittany Roman       1481.40
+Shawn Andrade        1398.58
+Holly Rodriguez      1397.31
+Catherine Bauer      1396.18
+Angela Anderson      1395.85
+Michelle Curtis      1394.86
+Richard Tucker       1394.70
+Ashley Hanson        1394.40
+Jean Gregory         1394.30
+Sheri Gibbs          1393.89
+Olivia Howell        1391.32
+Dana Pope            1390.32
+Kyle Griffin         1389.34
+Gary Baker           1388.20
+Cindy Bullock        1385.51
+Danielle Bird        1384.00
+Isaac Simmons        1381.08
+Kelly Gould          1380.36
 ## Unsubscribe Rate
 No data on unsubscribes in dataset
