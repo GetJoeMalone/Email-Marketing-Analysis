@@ -49,7 +49,7 @@ Name: name, dtype: int64 open_year  email_name
            Email 3 - Don’t miss out on your next adventures, book now and get 20% off    1809
            Email 4 - Thanks for choosing Wanderlust Adventures                           1020
 Name: name, dtype: int64
-
+![ALT](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/listgrowthrate%20chart.png)
 
 ## Email Sharing/Forwarding Rate
 No data on shareing/forwarding in dataset
