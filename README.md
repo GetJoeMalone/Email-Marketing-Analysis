@@ -83,8 +83,8 @@ Revenue By user
 - Kelly Gould          1380.36
 ![ALT](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revbyuserchart%20chart.png)
 
-average revenue per recipient:  49.02
-average revenue per email:  20.86
+- average revenue per recipient:  49.02
+- average revenue per email:  20.86
 
 revenue by email template:
 - Email 2 - Offers tailored just for you                                        531259.45
