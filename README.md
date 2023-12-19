@@ -55,6 +55,12 @@ Name: name, dtype: int64
 No data on shareing/forwarding in dataset
 
 ## Overall ROI
+overall revenue by month
+![ALT](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebymonth%20chart.png)
+
+overall revenue by year
+![ALT](https://github.com/GetJoeMalone/Email-Marketing-Analysis/blob/main/revenuebyyear%20chart.png)
+
 Revenue By user
 - Troy Long            2276.00
 - Ashley Fields        2214.98
